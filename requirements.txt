@@ -1,0 +1,2 @@
+beautifulsoup4==4.4.1
+fpdf==1.7.2
